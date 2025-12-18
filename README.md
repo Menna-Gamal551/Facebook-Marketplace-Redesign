@@ -2,20 +2,18 @@
 UX/UI redesign project to improve Facebook Marketplace
 
 ## Project Idea
-
 The project is a UX/UI redesign of Facebook Marketplace.
 The main goal is to:
- • Improve the user experience when browsing and purchasing products
- • Increase trust between buyers and sellers
- • Reduce fraud and scams on the platform
+ 1. Improve the user experience when browsing and purchasing products
+ 2. Increase trust between buyers and sellers
+ 3. Reduce fraud and scams on the platform
 
  ## Problem
-
 Facebook Marketplace is widely used, but it has real issues:
- • Limited product information: only the name and price are shown, no details about the seller or ratings
- • Unorganized interface: products are displayed randomly, making browsing difficult
- • Lack of trust and security elements: users cannot easily see if a seller is reliable or report fraudulent sellers
- • Weak search and filtering tools: the search bar is small and filtering options are limited
+ 1. Limited product information: only the name and price are shown, no details about the seller or ratings
+ 2. Unorganized interface: products are displayed randomly, making browsing difficult
+ 3. Lack of trust and security elements: users cannot easily see if a seller is reliable or report fraudulent sellers
+ 4. Weak search and filtering tools: the search bar is small and filtering options are limited
 
 As a result, users are at risk of scams or purchasing products without enough information, leading to a poor experience.
 
